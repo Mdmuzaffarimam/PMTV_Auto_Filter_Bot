@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/PMTV4">PMTV_Officialx</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/PMTV4_Official">PMTV4_Official</a></blockquote></b>"""
     FEATURES_TXT = """<b>ʜᴇʀᴇ ɪꜱ ᴀʟʟ ᴍʏ ꜰᴜɴᴛɪᴏɴꜱ.</b>"""
 
 
@@ -292,7 +292,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/PMTV4">{file_name}</a></b>\n<b>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n🔰 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @PMTV4\n👑 ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ ➥ @Sangam_511</b>"""
+    CAPTION = """<b><a href="https://t.me/PMTV4">{file_name}</a></b>\n<b>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n🔰 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @PMTV4\n👑 ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ ➥ @PMTV4_Official</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
